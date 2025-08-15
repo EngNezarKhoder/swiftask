@@ -1,16 +1,34 @@
-# swiftask
+# 📋 SwiftTask
 
-A new Flutter project.
+SwiftTask is a simple and easy-to-use **To-Do List** application built with Flutter.  
+It allows you to **add tasks**, **view them**, and **mark tasks as completed** with a clean and minimal interface.
 
-## Getting Started
+## ✨ Features
+- Add new tasks easily.
+- Mark tasks as completed or pending.
+- Simple and intuitive UI.
+- **State management with Provider** for efficient and reactive updates.
+- Full Arabic language support.
 
-This project is a starting point for a Flutter application.
+## 🖼 Screenshots
+| Home Screen | Add Task Screen |
+|-------------|----------------|
+| ![Home Screen](screenshots/Screenshot_20250815-035326.jpg) | ![Add Task](screenshots/Screenshot_20250815-035331.jpg) |
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠 Technologies Used
+- **Flutter** - Cross-platform UI toolkit.
+- **Provider** - State management solution.
+- **Dart** - Programming language for Flutter.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🚀 Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+Make sure you have:
+- Flutter SDK installed
+- Dart SDK installed
+- Android Studio or VS Code
+
+### Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/YourUsername/SwiftTask.git
